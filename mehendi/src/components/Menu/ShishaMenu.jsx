@@ -29,7 +29,7 @@ const ShishaMenu = () => {
           }
 
           .gold-black-gradient {
-            background: linear-gradient(-45deg, #000000, #001a13, #004d40, #000000);
+            background: linear-gradient(-45deg, #000000, #0a1a2f, #1f4e79, #000000);
             background-size: 300% 300%;
             animation: goldBlackGradient 20s ease infinite;
           }

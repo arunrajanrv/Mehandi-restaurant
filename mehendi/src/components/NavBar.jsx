@@ -57,7 +57,7 @@ const NavBar = () => {
           <div className="centered-logo" onClick={() => navigate("/")}>
             <div className="logo-image large" />
             <div className="logo-text">
-              D'Baazigarr
+              D'Mehendi
               <span>INDIAN DANCE CLUB</span>
             </div>
           </div>
