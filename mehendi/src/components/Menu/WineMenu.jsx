@@ -32,7 +32,7 @@ export const WineMenu = () => {
           }
 
           .maroon-black-gradient {
-            background: linear-gradient(-45deg, #000000, #3b0a0a, #800000, #000000);
+            background: linear-gradient(-45deg, #000000, #1a0033, #3b0066, #000000);
             background-size: 300% 300%;
             animation: maroonBlackGradient 20s ease infinite;
           }

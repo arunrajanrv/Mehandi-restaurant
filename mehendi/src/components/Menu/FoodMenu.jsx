@@ -31,7 +31,7 @@ export const FoodMenu = () => {
           }
 
           .light-brown-black-gradient {
-            background: linear-gradient(-45deg, #b08968, #7f5539, #000000, #a47148);
+            background: linear-gradient(-45deg, #000000, #1a1a1a, #3a2c1a, #000000);
             background-size: 300% 300%;
             animation: lightBrownBlack 20s ease infinite;
           }

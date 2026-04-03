@@ -97,12 +97,11 @@ body, html {
 }
 
 .logo-image.large {
-  width: 80px;
-  height: 80px;
-  background-image: url("./assets/logo.jpg"); /* Replace with actual path if needed */
+  width: 140px;
+  height: 140px;
+  background-image: url("./assets/logo.PNG"); /* Replace with actual path if needed */
   background-size: cover;
   background-position: center;
-  border-radius: 50%;
   margin-bottom: 10px;
 }
 

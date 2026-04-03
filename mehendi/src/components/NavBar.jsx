@@ -2,7 +2,7 @@ import React, { useEffect, useState } from "react";
 import "../App.css";
 import { useNavigate } from "react-router-dom";
 
-import splashImage from "../assets/bg2.jpg";
+import splashImage from "../assets/logo.PNG";
 import img1 from "../assets/img1.jpg";
 import img2 from "../assets/img2.jpg";
 import img3 from "../assets/img3.jpg";
@@ -57,7 +57,7 @@ const NavBar = () => {
           <div className="centered-logo" onClick={() => navigate("/")}>
             <div className="logo-image large" />
             <div className="logo-text">
-              Mehendi
+              D'Baazigarr
               <span>INDIAN DANCE CLUB</span>
             </div>
           </div>
