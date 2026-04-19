@@ -1,8 +1,8 @@
 import React, { useState } from "react";
 import BackButton from "../BackButton";
-import shisha1 from "../../assets/shisha.jpg";
-import shisha2 from "../../assets/shisha1.jpg";
-import shisha3 from "../../assets/shisha4.jpeg";
+import shisha1 from "../../assets/shisha1.PNG";
+import shisha2 from "../../assets/shisha2.PNG";
+import shisha3 from "../../assets/shisha3.PNG";
 
 const ShishaMenu = () => {
   const images = [shisha1, shisha2, shisha3];

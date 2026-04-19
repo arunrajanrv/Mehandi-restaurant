@@ -1,10 +1,10 @@
 import React, { useState } from "react";
 import BackButton from "../BackButton";
-import food1 from "../../assets/food1.jpeg";
-import food2 from "../../assets/food2.jpeg";
-import food3 from "../../assets/food3.jpeg";
-import food4 from "../../assets/food4.jpeg";
-import food5 from "../../assets/food5.jpeg";
+import food1 from "../../assets/food1.jpg";
+import food2 from "../../assets/food2.PNG";
+import food3 from "../../assets/food3.PNG";
+import food4 from "../../assets/food4.PNG";
+import food5 from "../../assets/food5.jpg";
 
 export const FoodMenu = () => {
   const images = [food1, food2, food3, food4, food5];
